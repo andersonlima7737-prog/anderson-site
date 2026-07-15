@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andersonlima.github.io/automacao-ia/sitemap.xml
